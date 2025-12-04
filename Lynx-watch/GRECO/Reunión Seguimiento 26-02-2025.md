@@ -1,0 +1,2 @@
+Se habla de la cuestión de las publicaciones científicas, hay que ver como se hace porque tenemos que hacer 3.
+Quieren hacer una reunión presencial en tecnalia para preparar las acciones para el descargo para el 26 de marzo.

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f4ca8af0aee43879","type":"text","text":"SolarGroup","x":105,"y":-160,"width":250,"height":60},
+		{"id":"7933667c37242e57","type":"text","text":"SolarGroup (Generacion)","x":-440,"y":-160,"width":250,"height":60},
+		{"id":"c377e8cec94faad4","type":"text","text":"TipoDato","x":-440,"y":200,"width":250,"height":60},
+		{"id":"ea7aeb1ae359820c","type":"text","text":"Dato","x":-440,"y":10,"width":250,"height":60},
+		{"id":"0bb013c1e8b8e2c6","type":"text","text":"IrradianceSensor","x":520,"y":-158,"width":250,"height":60},
+		{"id":"9adde18bf256a191","type":"text","text":"Dispositivo (Consumo)","x":105,"y":10,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"90cf8b0f12e38296","fromNode":"7933667c37242e57","fromSide":"right","toNode":"f4ca8af0aee43879","toSide":"left","label":"SOLAR"},
+		{"id":"cf9f5a55977c8a36","fromNode":"7933667c37242e57","fromSide":"right","toNode":"9adde18bf256a191","toSide":"left","label":"SOLARINJECTION"},
+		{"id":"b1dc3a7fe4540b18","fromNode":"7933667c37242e57","fromSide":"bottom","toNode":"ea7aeb1ae359820c","toSide":"top","label":"TIENE"},
+		{"id":"00036a741984e6a1","fromNode":"ea7aeb1ae359820c","fromSide":"bottom","toNode":"c377e8cec94faad4","toSide":"top","label":"ES"},
+		{"id":"dce397743084b8c9","fromNode":"f4ca8af0aee43879","fromSide":"right","toNode":"0bb013c1e8b8e2c6","toSide":"left"}
+	]
+}

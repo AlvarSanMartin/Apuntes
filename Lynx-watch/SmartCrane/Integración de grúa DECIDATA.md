@@ -1,0 +1,1 @@
+Reducción de movimientos en vacío

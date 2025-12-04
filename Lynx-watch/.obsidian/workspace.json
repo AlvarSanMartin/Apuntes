@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "5ff7787477ddb00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "31db33a4e2ec78bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "121ecf23cecec2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZTERTUZ/Reuniones/27-11-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27-11-2025"
+            }
+          },
+          {
+            "id": "d27fc085214ae08b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problemas FV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problemas FV"
+            }
+          },
+          {
+            "id": "d79786d4fc7743b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-03 17.11.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-03 17.11.22.excalidraw"
+            }
+          },
+          {
+            "id": "b155292cd4f00c45",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-04 12.56.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-04 12.56.56.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e11beecf63bea587",
+    "type": "split",
+    "children": [
+      {
+        "id": "106112931e24b85a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "195a4bc402316873",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dfa682ab4a21155a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1be925ae50143874",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5
+  },
+  "right": {
+    "id": "9953cf38ad1971a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df7bb7914de7605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce3a26cdc613344",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AZTERTUZ/Estructura Aztertuz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Estructura Aztertuz"
+            }
+          },
+          {
+            "id": "b5848835f297c57c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lynx-fv/TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODO"
+            }
+          },
+          {
+            "id": "618236ac121bc422",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a89ace7ab01ef69d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lynx-fv/TODO.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b155292cd4f00c45",
+  "lastOpenFiles": [
+    "Pasted Image 20251204133629_743.png",
+    "Pasted Image 20251204133515_819.png",
+    "Excalidraw/Drawing 2025-12-03 17.11.22.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-04 12.56.56.excalidraw.md",
+    "Esquemas LYNX/Untitled.md",
+    "Esquemas LYNX",
+    "Untitled.md",
+    "Problemas FV.md",
+    "AZTERTUZ/Reuniones/27-11-2025.md",
+    "GRECO/2025-11-26.md",
+    "GRECO/Greco.md",
+    "GRECO/2025-05-28.md",
+    "GRECO/2025-09-17.md",
+    "GRECO/GRECO ELKARTEK.md",
+    "GRECO/Reunión Seguimiento 26-02-2025.md",
+    "IA4GISA/2025-11-25.md",
+    "Proyectos I+D para vender.md",
+    "Script Componente.md",
+    "I+D JETBOT/Cambios JETBOt.md",
+    "script libreria.md",
+    "Routing.md",
+    "Pasted Image 20250522103651_344.png",
+    "Pasted Image 20250522103157_248.png",
+    "Arquitectura.canvas",
+    "2025-02-14.md",
+    "AWS.md",
+    "GraficoArbolDispositivos.canvas",
+    "Pasted Image 20250522112951_614.png",
+    "Ceindus NAIA4.0/Ceindus.md",
+    "Excalidraw/Drawing 2025-11-03 17.28.34.excalidraw.md",
+    "IA4GISA/2025-10-15.md",
+    "Untitled 1.md",
+    "Untitled 4.base",
+    "Untitled.base",
+    "Untitled 1.base",
+    "AZTERTUZ/Estructura Aztertuz.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "!LYNX/lynx-fv/Esquema Nodos.canvas",
+    "!LYNX/lynx-fv/img/Objetivos Portugal.jpeg",
+    "!LYNX/lynx-fv/img/mock-fv.png",
+    "!LYNX/lynx-fv/img/alarmas.png",
+    "!LYNX/Estructura LYNX.canvas",
+    "Pasted Image 20250522111720_106.png",
+    "dronica-aztertuz/img/Captura de pantalla (7).png",
+    "dronica-aztertuz/img/Captura de pantalla (6).png",
+    "AZTERTUZ/Reuniones",
+    "AZTERTUZ",
+    "!LYNX/Rendimiento",
+    "!LYNX/lynx-swhc",
+    "GRETHA/Untitled.canvas",
+    "Flow store.canvas",
+    "Graphql.canvas"
+  ]
+}

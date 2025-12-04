@@ -1,0 +1,7 @@
+   - La tarjeta de energía perdida total pasa de ser la energía estimada según la radiación medida menos la energía generada a ser la energía prevista en el BP menos la energía generada.
+- El desglose de energía perdida principalmente va a ser en base al BP:
+	- Energía perdida total sobre el BP (se considera el 100% de la perdida)
+	- Energía perdida por radiación: (Radiación BP - Radiación medida) * Potencia pico
+	- Energía perdida por averías se queda como estaba.
+	- Energía perdida por PR; tiene que representar la energía perdida que no se debe ni a averías ni a radiación, se calcula como la energía perdida total menos las perdidas individuales: Energía perdida total - (Perdida Radiación + Perdida Averías + Perdida Antivertido). Como resultado se obtienen la energía perdida que se debe a problemas de eficiencia de la planta. Esta métrica puede ser negativa en los casos en los que la radiación medida supere la prevista en el BP, sobre todo en los casos en los que la planta tenga antivertido.
+	- La energía perdida por PR no va a tener relación con el valor de PR porcentual que se muestra en la tabla de PR de dashboard.

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"66cc34ec67c2f76b","type":"text","text":":gateway","x":-357,"y":-260,"width":135,"height":60,"color":"1"},
+		{"id":"07eb514cada656cb","type":"text","text":":switch","x":-352,"y":-360,"width":125,"height":60},
+		{"id":"df01da66457bd3f6","type":"text","text":":concentrador","x":-414,"y":-464,"width":250,"height":60},
+		{"id":"18fa0fe948bfadc0","type":"text","text":":mosquitto","x":-412,"y":-559,"width":250,"height":60,"color":"1"},
+		{"id":"fd7744e21c83461c","type":"text","text":":lynx-field","x":-412,"y":-660,"width":250,"height":60},
+		{"id":"e90b93370c9dfe81","type":"text","text":":src","x":-339,"y":60,"width":100,"height":60,"color":"1"},
+		{"id":"3ea8e5829b3067fd","type":"text","text":":canal","x":-347,"y":-120,"width":115,"height":60,"color":"1"},
+		{"id":"7787073ee3ff38b6","type":"text","text":"Protocolo 485","x":-120,"y":90,"width":179,"height":60},
+		{"id":"446667f3431005a8","type":"text","text":"Sensores","x":-100,"y":200,"width":140,"height":60},
+		{"id":"59dd1dae5ae98d73","type":"text","text":"Abierto/cerrado","x":-153,"y":-120,"width":250,"height":60},
+		{"id":"0987132cef9963a5","type":"text","text":"Intervalos comunicación","x":-149,"y":-29,"width":250,"height":60},
+		{"id":"baddcc23dac9b913","type":"text","text":"Ping/CPU/mem","x":-149,"y":-260,"width":250,"height":60},
+		{"id":"bdcf5cc5faa4879d","type":"text","text":"Recibe telemetria","x":-24,"y":-494,"width":250,"height":60},
+		{"id":"3b7857c5c61fffbf","type":"text","text":"Activo?","x":-24,"y":-346,"width":250,"height":60},
+		{"id":"09e6887a5882498f","type":"text","text":"Genera arbol","x":-24,"y":-420,"width":250,"height":60},
+		{"id":"406395544f00872b","type":"text","text":"MQTT","x":-24,"y":-559,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f32079efe696c479","fromNode":"e90b93370c9dfe81","fromSide":"top","toNode":"3ea8e5829b3067fd","toSide":"bottom","color":"1","label":"bus"},
+		{"id":"2465819a0335a70a","fromNode":"3ea8e5829b3067fd","fromSide":"top","toNode":"66cc34ec67c2f76b","toSide":"bottom","color":"1","label":"tcp"},
+		{"id":"f2960878503435d4","fromNode":"66cc34ec67c2f76b","fromSide":"top","toNode":"07eb514cada656cb","toSide":"bottom","color":"1"},
+		{"id":"fe7e5014e3c76684","fromNode":"07eb514cada656cb","fromSide":"top","toNode":"df01da66457bd3f6","toSide":"bottom","color":"1"},
+		{"id":"3e40c3f046e63047","fromNode":"df01da66457bd3f6","fromSide":"top","toNode":"18fa0fe948bfadc0","toSide":"bottom","color":"1"},
+		{"id":"c93dd6bb98e3eb6e","fromNode":"18fa0fe948bfadc0","fromSide":"top","toNode":"fd7744e21c83461c","toSide":"bottom"},
+		{"id":"95641f1dc57a523a","fromNode":"e90b93370c9dfe81","fromSide":"right","toNode":"446667f3431005a8","toSide":"left","toEnd":"none"},
+		{"id":"8cf0f45a8fd881cf","fromNode":"e90b93370c9dfe81","fromSide":"right","toNode":"7787073ee3ff38b6","toSide":"left","toEnd":"none"},
+		{"id":"972b58dc02de51a3","fromNode":"3ea8e5829b3067fd","fromSide":"right","toNode":"59dd1dae5ae98d73","toSide":"left","toEnd":"none"},
+		{"id":"28cc9e831193a33d","fromNode":"3ea8e5829b3067fd","fromSide":"right","toNode":"0987132cef9963a5","toSide":"left","toEnd":"none"},
+		{"id":"21702adde6b88e77","fromNode":"66cc34ec67c2f76b","fromSide":"right","toNode":"baddcc23dac9b913","toSide":"left","toEnd":"none"},
+		{"id":"b207f608d80923a9","fromNode":"18fa0fe948bfadc0","fromSide":"right","toNode":"406395544f00872b","toSide":"left","toEnd":"none"},
+		{"id":"938d9ff184ca9c80","fromNode":"18fa0fe948bfadc0","fromSide":"right","toNode":"bdcf5cc5faa4879d","toSide":"left","toEnd":"none"},
+		{"id":"fac89b03f41a25c9","fromNode":"18fa0fe948bfadc0","fromSide":"right","toNode":"09e6887a5882498f","toSide":"left","toEnd":"none"},
+		{"id":"0bc0cf070c383074","fromNode":"18fa0fe948bfadc0","fromSide":"right","toNode":"3b7857c5c61fffbf","toSide":"left","toEnd":"none"}
+	]
+}
